@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/lang_icons/ukr.png</file>
+        <file>resources/lang_icons/eng.png</file>
+        <file>resources/lang_icons/fra.png</file>
+        <file>resources/lang_icons/deu.png</file>
+        <file>resources/lang_icons/spa.png</file>
+        <file>resources/lang_icons/ita.png</file>
+        <file>resources/lang_icons/jpn.png</file>
+        <file>resources/lang_icons/kor.png</file>
+        <file>resources/lang_icons/por.png</file>
+        <file>resources/lang_icons/rus.png</file>
+        <file>resources/cursor.png</file>
+        <file>resources/stylesheet.qss</file>
+        <file>resources/lang_icons/ara.png</file>
+        <file>resources/fonts/OpenSans-Regular.ttf</file>
+        <file>resources/lang_icons/auto.png</file>
+        <file>resources/logo_256_256.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Installer>
+    <Name>VisualTranslator</Name>
+    <Version>0.1.4</Version>
+    <Title>VisualTranslator Installation</Title>
+    <InstallerApplicationIcon>favicon</InstallerApplicationIcon>
+    <InstallerWindowIcon>favicon</InstallerWindowIcon>
+    <Publisher>semanser</Publisher>
+    <ProductUrl>http://vtranslator.com</ProductUrl>
+    <RunProgram>@TargetDir@/visualtranslator.exe</RunProgram>
+    <StartMenuDir>VisualTranslator</StartMenuDir>
+    <MaintenanceToolName>MaintenanceTool</MaintenanceToolName>
+    <AllowNonAsciiCharacters>true</AllowNonAsciiCharacters>
+
+    <TargetDir>@ApplicationsDirX64@/VisualTranslator</TargetDir>
+    <RemoteRepositories>
+        <Repository>
+            <Url>http://vtranslator.com/repository</Url>
+        </Repository>
+    </RemoteRepositories>
+</Installer>
